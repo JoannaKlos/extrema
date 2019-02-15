@@ -13,3 +13,4 @@ def find_maxima(arr):
      (i >= len(arr) or arr[i]> arr[i +1]):
      ans.append(i)
      return ans
+    print()
